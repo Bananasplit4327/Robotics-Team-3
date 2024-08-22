@@ -1,6 +1,6 @@
-# we-re-cooking
+# Team name: We're cooking
 
-## Kabosu
+## Robot name: Kabosu
 
 ## Mobile Robot with a purpose for competition
 
