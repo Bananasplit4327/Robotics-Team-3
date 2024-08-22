@@ -1,6 +1,6 @@
 # we-re-cooking
 
-## Kobosu
+## Kabosu
 
 ## Mobile Robot with a purpose for competition
 
