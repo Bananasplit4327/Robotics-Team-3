@@ -1,5 +1,8 @@
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
+  * Ensures that the Team is working together to reach our goal
+  * Writes, Tests, and Debugs the bot
+  * Develops a competition strategy, and finds the opponents strengths and weaknesses
   * [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
 # Eli
