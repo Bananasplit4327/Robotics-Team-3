@@ -5,10 +5,10 @@
   * Develops a competition strategy, and finds the opponents strengths and weaknesses
   * [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
-# Eli
-  * Team Driver/Programmer/Documentation
+# Eli| Team Driver/Programmer/Documentation
   * Learning Python
   * 
+
 # Jae Karppinen| Builder/mechanical engineer
 * plans and builds the robots physical structure
 * Guarantees that physical requirments are met such as: Size, weight, and functional requirments
