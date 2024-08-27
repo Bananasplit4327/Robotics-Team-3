@@ -1,4 +1,4 @@
 # Hayes
-  * Team Leader/Programmer
+  * Team Leader/Programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
   * [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
