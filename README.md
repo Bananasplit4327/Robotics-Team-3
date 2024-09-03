@@ -21,5 +21,5 @@
 * Works on the the mechanical systems of the the robot as well as chassis and drivetrain
 * Coordinates with the strategist to decide on alliances and match plans
 
-# Dokhu| Builder/Electrical Engineer/Scouting Lead
+# `Evan`| Builder/Electrical Engineer/Scouting Lead
 
