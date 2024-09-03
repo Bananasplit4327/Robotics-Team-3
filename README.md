@@ -3,6 +3,7 @@
 ## Robot name: Kabosu
 
 ## Mobile Robot with a purpose for competition
+The purpose of our bot is to collect rings which are placed on goalpostes, steal mobile goalposts, and climb the center tower to place a ring at the very top.
 
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
