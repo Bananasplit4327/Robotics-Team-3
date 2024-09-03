@@ -3,7 +3,6 @@
 ## Robot name: Kabosu
 
 ## Mobile Robot with a purpose for competition
-The purpose of our bot is to collect rings which are placed on goalpostes, steal mobile goalposts, and climb the center tower to place a ring at the very top.
 
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
@@ -24,5 +23,11 @@ The purpose of our bot is to collect rings which are placed on goalpostes, steal
 * Works on the the mechanical systems of the the robot as well as chassis and drivetrain
 * Coordinates with the strategist to decide on alliances and match plans
 
-# Dokhu| Builder/Electrical Engineer/Scouting Lead
-
+# Evan| Builder/Electrical Engineer/Scouting Lead
+* Manages data collection on opposing teams during competitions.
+* Analyzes data to help develop match strategies.
+* Coordinates with the strategist to decide on alliances and match plans.
+* Designs and assembles the robot’s electrical systems.
+* Manages wiring, sensors, and power distribution.
+* Ensures that the electrical components work correctly with the mechanical parts.
+* Troubleshoots electrical issues during testing.
