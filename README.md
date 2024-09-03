@@ -2,7 +2,7 @@
 
 ## Robot name: Kabosu
 
-## Mobile Robot with a purpose for competition
+## Mobile Robot with a purpose for
 
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
