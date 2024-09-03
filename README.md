@@ -12,7 +12,7 @@
   * [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
 # Eli| Team Driver/Programmer/Documentation
-  * Learning Python
+  * Learning Javascript
   * Controls robot when not automated
   * Documents building process, problems and everything in between
   * Helping Hayes with programming when needed
