@@ -17,7 +17,7 @@
   * Documents building process, problems and everything in between
   * Helping Hayes with programming when needed
 
-# Jae Karppinen| Builder/Mechanical Engineer/
+# Jae| Builder/Mechanical Engineer/
 * plans and builds the robots physical structure
 * Guarantees that physical requirments are met such as: Size, weight, and functional requirments
 * Works on the the mechanical systems of the the robot as well as chassis and drivetrain
