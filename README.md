@@ -13,7 +13,9 @@
 
 # Eli| Team Driver/Programmer/Documentation
   * Learning Python
-  * 
+  * Controls robot when not automated
+  * Documents building process, problems and everything in between
+  * Helping Hayes with programming when needed
 
 # Jae Karppinen| Builder/Mechanical Engineer/
 * plans and builds the robots physical structure
@@ -21,5 +23,5 @@
 * Works on the the mechanical systems of the the robot as well as chassis and drivetrain
 * Coordinates with the strategist to decide on alliances and match plans
 
-# `Evan`| Builder/Electrical Engineer/Scouting Lead
+# Dokhu| Builder/Electrical Engineer/Scouting Lead
 
