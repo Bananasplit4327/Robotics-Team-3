@@ -4,6 +4,7 @@
 
 ## Catapult that launches things
 
+![Chassis](file:///Users/9687565/Downloads/Chassis.jpg)
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
   * Ensures that the Team is working together to reach our goal
