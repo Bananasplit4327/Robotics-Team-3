@@ -2,7 +2,7 @@
 
 ## Robot name: Kabosu
 
-## Catipult that launches things
+## Catapult that launches things
 
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
