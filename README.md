@@ -4,7 +4,7 @@
 
 ## Catapult that launches things
 
-![Chassis]([https://github.com/user-attachments/assets/512d1ccf-107e-45b1-ab3f-9ce63d7996bb](https://github.com/Bananasplit4327/Robotics-Team-3/blob/main/images/Chassis.jpg?raw=true)
+![Chassis]([https://github.com/user-attachments/assets/512d1ccf-107e-45b1-ab3f-9ce63d7996bb](https://github.com/Bananasplit4327/Robotics-Team-3/blob/main/images/Chassis.jpg?raw=true))
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
   * Ensures that the Team is working together to reach our goal
