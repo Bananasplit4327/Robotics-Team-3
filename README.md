@@ -4,7 +4,7 @@
 
 ## Catapult that launches things
 
-![Chassis](https://github.com/user-attachments/assets/512d1ccf-107e-45b1-ab3f-9ce63d7996bb = 250x250)
+![Chassis](https://github.com/user-attachments/assets/512d1ccf-107e-45b1-ab3f-9ce63d7996bb "Chassis" {width=40px height=400px})
 # Hayes| Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
   * Ensures that the Team is working together to reach our goal
