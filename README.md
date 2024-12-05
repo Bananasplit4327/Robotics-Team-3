@@ -4,6 +4,8 @@
 
 ## Catapult that launches things
 
+![Team Photo](https://github.com/Bananasplit4327/Robotics-Team-3/blob/main/images/team%20photo.jpg)
+
 ![Chassis](https://github.com/Bananasplit4327/Robotics-Team-3/blob/main/images/Chassis.jpg?raw=true)
 # Hayes | Team Leader/Head programmer/Strategist
   * Proficient in Python, and C; learning C++ and Kotlin
